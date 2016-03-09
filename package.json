@@ -1,0 +1,22 @@
+{
+  "name": "epicmafia-desktop",
+  "version": "0.1.0",
+  "description": "A desktop client for EpicMafia, written in node.",
+  "main": "init.js",
+  "scripts": {
+    "test": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhiljha/EpicMafia-Desktop.git"
+  },
+  "keywords": [
+    "EpicMafia"
+  ],
+  "author": "Nikhil Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhiljha/EpicMafia-Desktop/issues"
+  },
+  "homepage": "https://github.com/nikhiljha/EpicMafia-Desktop#readme"
+  }
